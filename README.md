@@ -1,5 +1,5 @@
 <h1 align='center'>
-    <img alt="Dev" title="#Dev" src="https://dribbble.com/shots/3147608-We-are-actively-seeking-a-Angular-Node-JS-developer" width="250px" />
+    <img alt="Dev" href="https://dribbble.com/shots/3147608-We-are-actively-seeking-a-Angular-Node-JS-developer" width="250px" />
 </h1>
 # Diego Rodrigo de Andrade
 
