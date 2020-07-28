@@ -1,7 +1,7 @@
 <h1 align='center'>
-    <img alt="Dev" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" />
+    Diego Rodrigo de Andrade
+    <img alt="Dev" src="http://i-ps.co.uk/wp-content/uploads/2018/04/gameblog2.gif" />
 </h1>
-## Diego Rodrigo de Andrade
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0/)](https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.rodrigo.andrade@gmail.com)](mailto:diego.rodrigo.andrade@gmail.com)
