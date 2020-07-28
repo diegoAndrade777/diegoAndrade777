@@ -1,4 +1,7 @@
-# :man_technologist: Diego Rodrigo de Andrade
+<h1 align='center'>
+    <img alt="Dev" title="#Dev" src="https://dribbble.com/shots/3147608-We-are-actively-seeking-a-Angular-Node-JS-developer" width="250px" />
+</h1>
+# Diego Rodrigo de Andrade
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0/)](https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.rodrigo.andrade@gmail.com)](mailto:diego.rodrigo.andrade@gmail.com)
