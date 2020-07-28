@@ -1,5 +1,5 @@
 <h1 align='center'>
-    <img alt="Dev" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" width="250px" />
+    <img alt="Dev" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif" />
 </h1>
 # Diego Rodrigo de Andrade
 
