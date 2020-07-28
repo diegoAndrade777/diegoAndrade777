@@ -1,31 +1,22 @@
+<h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
+[![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com/Raghav-byte/Raghav-byte)
 
+I'm a FullStack Developer and student
 
-<p align="center"><img src="https://github.com/aletisunil/aletisunil/blob/master/IMG_0288.gif" /></p>
+- 🔭 I’m currently working on keep focus on NodeJs, ReactJs and ReactNative
+- 💪 I’m currently learning about Adonis, Graphql 
+- 🖐🏻 I’m looking for help in learning about NodeJs, ReactJs and ReactNative 
+- 💬 Ask me about anything and everything 
+- 📫 How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0/)](https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0/) 
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.rodrigo.andrade@gmail.com)](mailto:diego.rodrigo.andrade@gmail.com) 
 
-<hr>
-<p align="center">
-  <i><b>Let's do a networking!</b></i>
+### Some stats about Diego
+<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=raghav-byte&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0//" alt="Linkedin"><img src="https://github.com/aletisunil/aletisunil/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
-     <a href="https://t.me/sunilaleti" alt="Telegram"><img src="https://github.com/aletisunil/aletisunil/blob/master/telegram.png" height="30" width="30"></a>&nbsp;
-    <a href="https://dev.to/aletisunil"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="30" width="30"></a>&nbsp;
-    <a href="https://aletisunil.github.io/"><img src="https://github.com/aletisunil/aletisunil/blob/master/globe.png" height="30" width="30"></a>
-  </p> 
-</p>
+⭐️ From [Raghav-byte](https://github.com/diegoAndrade777)
 
 <!--
 **diegoAndrade777/diegoAndrade777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
