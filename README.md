@@ -1,8 +1,6 @@
 <h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
-[![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com/Raghav-byte/Raghav-byte)
-
 I'm a FullStack Developer and student
 
 - 🔭 I’m currently working on keep focus on NodeJs, ReactJs and ReactNative
@@ -14,9 +12,9 @@ I'm a FullStack Developer and student
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.rodrigo.andrade@gmail.com)](mailto:diego.rodrigo.andrade@gmail.com) 
 
 ### Some stats about Diego
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=raghav-byte&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+<img alt="Diego's github stats" src="https://github-readme-stats.vercel.app/api?username=diegoAndrade777&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
-⭐️ From [Raghav-byte](https://github.com/diegoAndrade777)
+⭐️ From [Diego](https://github.com/diegoAndrade777)
 
 <!--
 **diegoAndrade777/diegoAndrade777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
