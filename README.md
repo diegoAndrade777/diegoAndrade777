@@ -2,7 +2,7 @@
     Diego Rodrigo de Andrade
 </h1>
 <h1 align='center'>
-    <img alt="Dev" src="http://i-ps.co.uk/wp-content/uploads/2018/04/gameblog2.gif" width="400" height="800"/>
+    <img alt="Dev" src="http://i-ps.co.uk/wp-content/uploads/2018/04/gameblog2.gif" width="800" height="400"/>
 </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0/)](https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0/)
