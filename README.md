@@ -1,6 +1,6 @@
 <h1 align='center'>
     Diego Rodrigo de Andrade
-    <img alt="Dev" src="http://i-ps.co.uk/wp-content/uploads/2018/04/gameblog2.gif" />
+    <img alt="Dev" src="http://i-ps.co.uk/wp-content/uploads/2018/04/gameblog2.gif" width="200px"/>
 </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0/)](https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0/)
@@ -10,7 +10,7 @@
     /
     Hello my name is Diego Andrade, Fullstack Developer NodeJs, ReactJs e ReactNative.
 
-## Conhecimentos / Knowledges
+## Knowledges
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
@@ -38,7 +38,7 @@
 
 ---
 
-### Some stats about Diego
+## Some stats about Diego
 <img alt="Diego's github stats" src="https://github-readme-stats.vercel.app/api?username=diegoAndrade777&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
 ⭐️ From [Diego](https://github.com/diegoAndrade777)
