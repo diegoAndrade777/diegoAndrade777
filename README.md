@@ -21,10 +21,8 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
-[![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
-[![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
@@ -36,7 +34,6 @@
 
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
-[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 
 ---
 
