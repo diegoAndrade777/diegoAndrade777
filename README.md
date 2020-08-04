@@ -2,6 +2,8 @@
     <img alt="Dev" src="http://i-ps.co.uk/wp-content/uploads/2018/04/gameblog2.gif" width="800" height="360"/>
 </h1>
 
+## Social
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0/)](https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.rodrigo.andrade@gmail.com)](mailto:diego.rodrigo.andrade@gmail.com)
 
@@ -9,7 +11,7 @@
     /
     Hello my name is Diego Andrade, Fullstack Developer NodeJs, ReactJs e ReactNative.
 
-## Knowledges
+## Skills
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
