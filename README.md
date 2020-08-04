@@ -33,10 +33,6 @@
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 
 ---
-
-## Some stats about Diego
-<img alt="Diego's github stats" src="https://github-readme-stats.vercel.app/api?username=diegoAndrade777&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
-
 ⭐️ From [Diego](https://github.com/diegoAndrade777)
 
 <!--
