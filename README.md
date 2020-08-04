@@ -1,7 +1,4 @@
 <h1 align='center'>
-    Diego Rodrigo de Andrade
-</h1>
-<h1 align='center'>
     <img alt="Dev" src="http://i-ps.co.uk/wp-content/uploads/2018/04/gameblog2.gif" width="800" height="360"/>
 </h1>
 
