@@ -11,22 +11,20 @@
 <div>
  <img align="left" alt="Node.js" width="26px"                                    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
  <img align="left" alt="React" width="26px"              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+ <img align="left" alt="JavaScript" width="26px"        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </div>
 
 <br />
 
 ## Other Skills
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
+[![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
+
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
-[![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
