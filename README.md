@@ -39,7 +39,9 @@
 
 <img align="left" alt="Diego's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=diegoAndrade777&show_icons=true&hide_border=true" />
 
-⭐️ From [Diego](https://github.com/diegoAndrade777)
+<br />
+
+Made with ♥ by Diego Andrade :wave:
 
 <!--
 **diegoAndrade777/diegoAndrade777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
