@@ -13,6 +13,8 @@
  <img align="left" alt="React" width="26px"              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 </div>
 
+<br />
+
 ## Other Skills
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
@@ -38,7 +40,7 @@
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 
 <img align="left" alt="Diego's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=diegoAndrade777&show_icons=true&hide_border=true" />
----
+
 ⭐️ From [Diego](https://github.com/diegoAndrade777)
 
 <!--
