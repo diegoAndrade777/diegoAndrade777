@@ -2,16 +2,18 @@
     <img alt="Dev" src="http://i-ps.co.uk/wp-content/uploads/2018/04/gameblog2.gif" width="800" height="360"/>
 </h1>
 
-## Social
+## Let's do a network
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0/)](https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.rodrigo.andrade@gmail.com)](mailto:diego.rodrigo.andrade@gmail.com)
 
-    Olá meu nome é Diego Andrade, Desenvolvedor Fullstack NodeJs, ReactJs e ReactNative.
-    /
-    Hello my name is Diego Andrade, Fullstack Developer NodeJs, ReactJs e ReactNative.
+## I'm focused on
 
-## Skills
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+/>
+
+## Other Skills
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
@@ -35,6 +37,7 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 
+<img align="left" alt="Diego's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=diegoAndrade777&show_icons=true&hide_border=true" 
 ---
 ⭐️ From [Diego](https://github.com/diegoAndrade777)
 
