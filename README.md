@@ -38,7 +38,7 @@
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 
 <div align="left">
- <img alt="Diego's Github Stats" src="![](https://github-readme-stats.vercel.app/api?username=diegoAndrade777&show_icons=true&hide_border=true&count_private=true&theme=dark)" />
+ <img alt="Diego's Github Stats" src="![](https://github-readme-stats.vercel.app/api?username=diegoAndrade777&show_icons=true&hide_border=true&theme=dark)" />
 </div>
 
 <br />
