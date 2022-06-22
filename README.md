@@ -1,5 +1,5 @@
 <h1 align='center'>
-    <img alt="Dev" src="https://medium.com/@ricardojeanpierre/ux-concepts-that-ever-developer-should-know-ba5243b6322f" width="800" height="360"/>
+    <img alt="Dev" src="https://miro.medium.com/max/1400/1*gReLR6hZjwyBxHmfLN1AVw.gif" width="800" height="360"/>
 </h1>
 
 ## Let's do a network
