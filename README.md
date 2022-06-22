@@ -1,5 +1,5 @@
 <h1 align='center'>
-    <img alt="Dev" src="https://miro.medium.com/max/1400/1*gReLR6hZjwyBxHmfLN1AVw.gif" width="800" height="360"/>
+    <img alt="Dev" src="https://miro.medium.com/max/1400/1*gReLR6hZjwyBxHmfLN1AVw.gif" width="800" height="500"/>
 </h1>
 
 ## Let's do a network
