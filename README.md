@@ -1,5 +1,5 @@
 <h1 align='center'>
-    <img alt="Dev" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" width="800" height="360"/>
+    <img alt="Dev" src="https://medium.com/@ricardojeanpierre/ux-concepts-that-ever-developer-should-know-ba5243b6322f" width="800" height="360"/>
 </h1>
 
 ## Let's do a network
