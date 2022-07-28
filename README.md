@@ -1,5 +1,5 @@
 <h1 align='center'>
-    <img alt="Dev" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="800" height="500"/>
+    <img alt="Dev" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c8b32127075137.5635f930a8c2d.gif" width="800" height="500"/>
 </h1>
 
 ## Let's do a network
