@@ -44,7 +44,7 @@
 
 <br />
 
-<div align="left">
+<div align="center">
 Made with ♥ by Diego Andrade :wave:
 </div>    
 
