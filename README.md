@@ -38,7 +38,7 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/diegoAndrade777/)](https://github.com/diegoAndrade777/)
 
-<div align="left">
+<div align="center">
  <img alt="Diego's Github Stats" src="https://github-readme-stats.vercel.app/api?username=diegoandrade777&show_icons=true&hide_border=true&theme=dark" />
 </div>
 
