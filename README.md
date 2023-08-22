@@ -5,7 +5,7 @@
 
 ## Let's do a network
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0/)](https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-r-andrade/)](https://www.linkedin.com/in/diego-r-andrade/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.rodrigo.andrade@gmail.com)](mailto:diego.rodrigo.andrade@gmail.com)
 
 ## I'm focused on
