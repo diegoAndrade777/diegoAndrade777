@@ -1,6 +1,6 @@
 
 <h1 align='center'>
-    <img alt="Dev" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c8b32127075137.5635f930a8c2d.gif" width="600" height="400"/>
+    <img alt="Dev" src="https://media.licdn.com/dms/image/v2/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674937953?e=1729728000&v=beta&t=6m0_A5WXnv3hYvan6kBLInOlzC7wsk6YsLx8HRA8TIM" width="600" height="400"/>
 </h1>
 
 ## Let's do a network
