@@ -42,11 +42,5 @@
  <img alt="Diego's Github Stats" src="https://github-readme-stats.vercel.app/api?username=diegoandrade777&show_icons=true&hide_border=true&theme=dark" />
 </div>
 
-<br />
-
-<div align="center">
-Made with ♥ by Diego Andrade :wave:
-</div>    
-
 <!--
 **diegoAndrade777/diegoAndrade777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
